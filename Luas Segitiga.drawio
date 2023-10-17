@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T04:44:56.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.4" etag="J2lMxGiyh-_TQgIYYAGU" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T04:47:49.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="KWonRdMgdgamrYbmckxb" version="22.0.4" type="github">
   <diagram name="Page-1" id="7U5waFio8BqmkKeOUYup">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_kK_Enu69GaclwL-ClF3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="1" source="_kK_Enu69GaclwL-ClF3-1" target="_kK_Enu69GaclwL-ClF3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kK_Enu69GaclwL-ClF3-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_kK_Enu69GaclwL-ClF3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="1" source="_kK_Enu69GaclwL-ClF3-2" target="_kK_Enu69GaclwL-ClF3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kK_Enu69GaclwL-ClF3-2" value="&lt;div&gt;LS&lt;/div&gt;&lt;div&gt;a&lt;/div&gt;&lt;div&gt;t&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_kK_Enu69GaclwL-ClF3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="1" source="_kK_Enu69GaclwL-ClF3-3" target="_kK_Enu69GaclwL-ClF3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kK_Enu69GaclwL-ClF3-3" value="LS=1/2 x a x t" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_kK_Enu69GaclwL-ClF3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;" edge="1" parent="1" source="_kK_Enu69GaclwL-ClF3-4" target="_kK_Enu69GaclwL-ClF3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kK_Enu69GaclwL-ClF3-4" value="LS" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="570" y="460" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_kK_Enu69GaclwL-ClF3-5" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
